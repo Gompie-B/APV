@@ -4,3 +4,22 @@
     hier voor gebruiken wij een aantal catogorien en subcatogorien,</br> 
     deze worden onder andere weer gegeven als <b>Artiekel</b>
 </p>
+<hr>
+<h2>Inhoudsopgave</h2>
+<ul>
+    <li>Artikel 1.INF - Bezwaar Straf</li>
+    <li>Artikel 2.INF - Straf Verandering</li>
+    <li>Artikel 3.INF - Omzeilen Straf</li>
+    <li>Artikel 4.INF - Bans op GTA license en IP verbonden.</li>
+    <li>Artikel 5.INF - Herhaling</li>
+    <li>Artikel 6.INF - Tonen bewijsmateriaal</li>
+    <li>Artikel 7.INF - Burger Raporteren</li>
+    <li>Artikel 8.INF - Liegen Tegen Staff</li>
+    <li>Artikel 9.INF - Informatie achterhouden voor staff</li>
+    <li>Artikel 10.INF - Voordoen als staff</li>
+    <li>Artikel 11.INF - Verkopen/kopen van speciale voertuigen.</li>
+    <li>Artikel 12.INF - Regels Omtrent Wapenlijst.</li>
+    <li>Artikel 13.INF - Donaties</li>
+    <li>Artikel 14. INF - Staffzaak</li>
+</ul>
+
