@@ -22,4 +22,6 @@
     <li>Artikel 13.INF - Donaties</li>
     <li>Artikel 14. INF - Staffzaak</li>
 </ul>
-
+<hr>
+<h3>Artikel 1.INF - Bezwaar Straf</h3>
+<p>Een burger heeft het recht om in beroep te gaan tegen de opgelegde straf. Dit dient enkel binnen een tijdsbestek van 1 week te gebeuren. Na dit tijdsbestek valt er niet meer in beroep te gaan tegen uw opgelegde straf.</p>
