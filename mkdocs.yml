@@ -29,12 +29,24 @@ theme :
       - search.sugest
       - search.highlight
       - search.share
+      - content.tabs.link
+      - content.footnote.tooltips
   
   plugins:
     - search
     - tags
+    
   markdown_extensions:
+    - pymdownx.critic
+    - pymdownx.caret
+    - pymdownx.keys
+    - pymdownx.mark
+    - pymdownx.tilde
+    - md_in_html
     - tables
+    - def_list
+    - pymdownx.superfences
+    - footnotes  
 
 nav:
   - Home: index.md
