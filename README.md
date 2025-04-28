@@ -68,3 +68,9 @@
 <h3>Artikel 8.INF - Liegen Tegen Staff</h3>
 <p>Liegen tegen staffleden is ten alle tijden niet toegestaan, hier staat een straf op van minimaal categorie 5.</p>
 <section>
+
+<hr>
+<section>
+<h3>Artikel 9.INF - Informatie achterhouden voor staff</h3>
+<p>Het is niet toegestaan om informatie voor een stafflid te achterhouden. Zodra een stafflid jou iets vraagt, verwachten we dus ook dat jij naar alle waarheid de informatie verstrekt. Hier niet aan meewerken zal een straf van categorie 5.</p>
+<section>
