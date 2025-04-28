@@ -74,3 +74,9 @@
 <h3>Artikel 9.INF - Informatie achterhouden voor staff</h3>
 <p>Het is niet toegestaan om informatie voor een stafflid te achterhouden. Zodra een stafflid jou iets vraagt, verwachten we dus ook dat jij naar alle waarheid de informatie verstrekt. Hier niet aan meewerken zal een straf van categorie 5.</p>
 <section>
+
+<hr>
+<section>
+<h3>Artikel 10.INF - Voordoen als staff</h3>
+<p>Het voordoen en of uitspraken gebruiken om als staflid over te komen is niet toegestaan en zal bestraft worden met categorie 6.</p>
+<section>
