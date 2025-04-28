@@ -56,3 +56,9 @@
 <h3>Artikel 6.INF - Tonen bewijsmateriaal.</h3>
 <p>Een stafflid is niet verplicht om verzameld bewijsmateriaal te tonen aan een speler, wanneer hij/zij een straf heeft gekregen na het overtreden van een/of meerdere regels.</p>
 <section>
+
+<hr>
+<section>
+<h3>Artikel 7.INF - Burger Raporteren.</h3>
+<p>Een klacht over een speler dient binnen een week aangemaakt te worden. Daarna zal het niet meer bekeken worden door een stafflid in kwestie.</p>
+<section>
