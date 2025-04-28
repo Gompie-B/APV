@@ -113,3 +113,5 @@
     <li>Mocht het scenario klaar zijn wacht je 10 minuten dan mag je een staffzaak starten.</li>
 </ol>
 <section>
+
+<i>"Informatie - Regels" is opgesteld uit naam van de Beheerder(s), bedoeld voor het eiland, de gemeente en de stad “NovaCity”, opgetekend door Portak te NovaCity.</i>
