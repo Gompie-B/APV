@@ -50,3 +50,9 @@
 <h3>Artikel 5.INF - Herhaling.</h3>
 <p>Wanneer je dezelfde categorie meerdere keren heb gehad kan je volgende straf verhoogd worden met 1 categorie.</p>
 <section>
+
+<hr>
+<section>
+<h3>Artikel 6.INF - Tonen bewijsmateriaal.</h3>
+<p>Een stafflid is niet verplicht om verzameld bewijsmateriaal te tonen aan een speler, wanneer hij/zij een straf heeft gekregen na het overtreden van een/of meerdere regels.</p>
+<section>
