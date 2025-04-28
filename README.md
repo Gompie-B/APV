@@ -80,3 +80,9 @@
 <h3>Artikel 10.INF - Voordoen als staff</h3>
 <p>Het voordoen en of uitspraken gebruiken om als staflid over te komen is niet toegestaan en zal bestraft worden met categorie 6.</p>
 <section>
+
+<hr>
+<section>
+<h3>Artikel 11.INF - Verkopen/kopen van speciale voertuigen.</h3>
+<p>xx</p>
+<section>
