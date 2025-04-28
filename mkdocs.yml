@@ -5,23 +5,15 @@ theme :
   #favicon: images/favicon.png
   
   extra:
-    homepage: https://example.com
+    homepage: https://www.novacity-rp.nl
   
   font:
     text: Roboto
   
   palette: 
-    # Palette toggle for light mode
-    - scheme: default
-      toggle:
-        icon: material/brightness-7 
-        name: Switch to dark mode
-
-    # Palette toggle for dark mode
-    - scheme: slate
-      toggle:
-        icon: material/brightness-4
-        name: Switch to light mode
+    scheme: slate
+    primary: deep purple
+     
         
   features:
       - navigation.instant
@@ -41,7 +33,10 @@ theme :
   plugins:
     - search
     - tags
+  markdown_extensions:
+    - tables
 
-  nav:
-    - Home: index.md
-    - Informatie: informatie.md    
+nav:
+  - Home: index.md
+  - Informatie: informatie.md    
+  - Algemene Plaatselijke Verordening: apv.md    
