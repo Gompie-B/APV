@@ -32,3 +32,8 @@
 <h3>Artikel 2.INF - Straf Verandering</h3>
 <p>Indien er duidelijk bewijs gevonden is die de opgelegde straf kan veranderen, staat het stafflid in zijn recht om de straf te veranderen. Dit is afhankelijk van het gevonden bewijs.</p>
 <section>
+<hr>
+<section>
+<h3>Artikel 3.INF - Omzeilen Straf</h3>
+<p>Het omzeilen van een opgelegde straf is verboden. Indien dit geconstateerd wordt volgt een straf opleggen van de 9e categorie. Proberen ‘’loopholes’’ te vinden in de regels en/of de regels te misbruiken/buigen voor je eigen voordeel is niet toegestaan en zal worden bestraft volgens categorie 7.</p>
+<section>
