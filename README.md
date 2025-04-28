@@ -62,3 +62,9 @@
 <h3>Artikel 7.INF - Burger Raporteren.</h3>
 <p>Een klacht over een speler dient binnen een week aangemaakt te worden. Daarna zal het niet meer bekeken worden door een stafflid in kwestie.</p>
 <section>
+
+<hr>
+<section>
+<h3>Artikel 8.INF - Liegen Tegen Staff</h3>
+<p>Liegen tegen staffleden is ten alle tijden niet toegestaan, hier staat een straf op van minimaal categorie 5.</p>
+<section>
