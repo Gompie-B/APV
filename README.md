@@ -92,3 +92,15 @@
 <h3>Artikel 12.INF - Regels Omtrent Wapenlijst</h3>
 <p>xx</p>
 <section>
+
+<hr>
+<section>
+<h3>Artikel 13.INF - Donaties</h3>
+<ol>
+    <li>Vraag wel eerst toestemming van je ouders als je jonger bent dan 18 jaar om eventueel een donatie te doen.</li>
+    <li>Donaties staan vast, als er éénmaal gedoneerd is, krijg je het geld <b>NIET</b> meer terug.</li>
+    <li>In het geval dat er een chargeback wordt gemaakt zonder dat er om support wordt gevraagd zal dit leiden tot een permanente ban.</li>
+    <li>In het geval dat de gene frauduleuze betalingen probeert te maken zal deze ook een permanente ban ontvangen.</li>
+    <li>In het geval jij toch veder gaat met doneren, ga jij automatisch akkoord met de regels omtrent het doneren of aankopen doen in de store.</li>
+</ol>
+<section>
