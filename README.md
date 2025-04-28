@@ -104,3 +104,12 @@
     <li>In het geval jij toch veder gaat met doneren, ga jij automatisch akkoord met de regels omtrent het doneren of aankopen doen in de store.</li>
 </ol>
 <section>
+
+<hr>
+<section>
+<h3>Artikel 14. INF - Staffzaak</h3>
+<ol>
+    <li>Het is niet toegestaan als je nog in een roleplay scenario zit een staffzaak te starten.</li>
+    <li>Mocht het scenario klaar zijn wacht je 10 minuten dan mag je een staffzaak starten.</li>
+</ol>
+<section>
