@@ -44,3 +44,9 @@
 <h3>Artikel 4.INF - Bans op GTA license en IP verbonden.</h3>
 <p>Bans worden uitgedeeld op GTA License en IP-Adres en geldt dus voor een ieder die hier gebruik van maakt. Dit geldt ook voor familieleden of vrienden in hetzelfde huis. Hier dien je samen verantwoordelijk voor te zijn, mocht iemand een straf krijgen.</p>
 <section>
+
+<hr>
+<section>
+<h3>Artikel 5.INF - Herhaling.</h3>
+<p>Wanneer je dezelfde categorie meerdere keren heb gehad kan je volgende straf verhoogd worden met 1 categorie.</p>
+<section>
