@@ -27,3 +27,8 @@
 <h3>Artikel 1.INF - Bezwaar Straf</h3>
 <p>Een burger heeft het recht om in beroep te gaan tegen de opgelegde straf. Dit dient enkel binnen een tijdsbestek van 1 week te gebeuren. Na dit tijdsbestek valt er niet meer in beroep te gaan tegen uw opgelegde straf.</p>
 <section>
+<hr>
+<section>
+<h3>Artikel 2.INF - Straf Verandering</h3>
+<p>Indien er duidelijk bewijs gevonden is die de opgelegde straf kan veranderen, staat het stafflid in zijn recht om de straf te veranderen. Dit is afhankelijk van het gevonden bewijs.</p>
+<section>
