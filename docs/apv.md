@@ -44,3 +44,28 @@
 12. De straffen van categorie 5, 6 en 7 kunnen preventief worden uitgedeeld wanneer sprake is van een overtreding op heterdaad. De opgelegde straf zal naderhand besproken worden binnen het managagement team en waar nodig worden bijgesteld. Dit om eventuele verdere schade te beperken terwijl er gekeken wordt wat er precies gebeurt is.
 
 13. Er kan door een stafflid gekozen worden om straffen te verhogen en/of te verlagen op basis van de context, situatie of eerdere straffen/waarschuwingen van de overtreder in kwestie. Wanneer je het niet eens bent met een oordeel van een stafflid kan je hiervoor een ticket aanmaken.
+
+14. Bij een eerste overtreding kan er voor gekozen worden in plaats van een Schriftelijke waarschuwing (Categorie 1) een Mondelinge waarschuwing uit te delen. Hierbij wordt ook gecontroleerd of de persoon daadwerkelijk de regels heeft gelezen en deze begrijpt.
+
+15. Een mondelinge waarschuwing dient in een notitie bij deze persoon aangegeven te zijn, anders is deze niet geldig.
+
+16. Het omzeilen van een straf zal resulteren in een straf volgens categorie 7
+
+17. Bans worden uitgedeeld op basis van de GTA licentie en geldt als zodanig voor alle gebruikers van deze kenmerken.
+
+18. Een warning dient binnen 48 uur te worden aangevochten door de speler, anders zal er geen mogelijkheid meer zijn op herziening van deze beslissing.
+
+### A4 - Aanvullende Wetten en regels
+1. Aanvullend op de APV is er het Wetboek Amersfoort (WAFR), waarin alle wetten, artikelen en bepalingen zijn opgenomen die gelden in NovaCity.
+
+2. In dit Wetboek is opgenomen alle criminele feiten, de bijbehorende boetes, gevangenisstraffen enzovoorts.
+
+3. Dit Wetboek heeft, net als de APV, een basis in het Nederlands Recht.
+
+4. Het Nederlands Recht is zodoende leidend, tenzij er een Wet of Bepaling is opgenomen in de WAFR. Dan is deze leidend.
+
+5. Dit wetboek is, net als deze APV en conform de rechtsstaat, ten alle tijden openbaar.
+<hr>
+
+## Overtredingen - Verstoring openbare orde (RP)
+### Artikel 1 - FailRP / Powergaming
