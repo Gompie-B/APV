@@ -86,3 +86,9 @@
 <h3>Artikel 11.INF - Verkopen/kopen van speciale voertuigen.</h3>
 <p>xx</p>
 <section>
+
+<hr>
+<section>
+<h3>Artikel 12.INF - Regels Omtrent Wapenlijst</h3>
+<p>xx</p>
+<section>
