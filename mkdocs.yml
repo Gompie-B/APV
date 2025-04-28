@@ -1,0 +1,47 @@
+site_name: NovaCity Rolplay
+theme :
+  name: material
+  #logo: assets/logo.png
+  #favicon: images/favicon.png
+  
+  extra:
+    homepage: https://example.com
+  
+  font:
+    text: Roboto
+  
+  palette: 
+    # Palette toggle for light mode
+    - scheme: default
+      toggle:
+        icon: material/brightness-7 
+        name: Switch to dark mode
+
+    # Palette toggle for dark mode
+    - scheme: slate
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+        
+  features:
+      - navigation.instant
+      - navigation.instant.progress
+      - navigation.instant.preview
+      - navigation.tracking
+      - navigation.tabs
+      - navigation.tabs
+      - navigation.tabs.sticky
+      - navigation.sections
+      - navigation.expand
+      - navigation.top
+      - search.sugest
+      - search.highlight
+      - search.share
+  
+  plugins:
+    - search
+    - tags
+
+  nav:
+    - Home: index.md
+    - Informatie: informatie.md    
