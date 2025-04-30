@@ -17,5 +17,10 @@ De Algemene Plaatselijke Verordening (APV) bevat alle regels die niet te maken h
 
 NovaCity heeft veschillende discord servers die goed gekeurd zijn door de Hoge Raad hier kan je belangrijke informatie vinden:
 
+|   Server    | Beschrijving                         | Discord Invite link |
+| ----------- | ------------------------------------ |--------------|
+| `NovaCity`                | Main discord server van NovaCity      | (Uitnodiging)[https://discord.gg/] |
+| `NovaCity Support`        | Support discord server van NovaCity   | (Uitnodiging)[https://discord.gg/] |
 
 
+De Hoofd Pagina is opgesteld uit naam van de Hoge Raad, bedoeld voor het eiland, de gemeente en de stad “NovaCity”, opgetekend door Portak te NovaCity.
