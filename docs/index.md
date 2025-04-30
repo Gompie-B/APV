@@ -9,7 +9,7 @@ Welkom op de pagina voor de Wet- en Regelgeving van NovaCity! Zorg ervoor, dat j
 
 De Algemene Plaatselijke Verordening (APV) bevat alle regels die niet te maken hebben met de Roleplay (dit zijn zogezegd de "server regels").
 <ul>
-    <li>Het Algemeen Wetboek Amersfoort bevat alle wetten voor de burgers.</li>
+    <li>Het Algemeen Wetboek NovaCity bevat alle wetten voor de burgers.</li>
     <li>Alle overige documenten zijn specifiek bedoeld voor bepaalde zaken..</li>
 </ul>
 
