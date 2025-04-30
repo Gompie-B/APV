@@ -132,7 +132,6 @@ De hoge raad kan na het zien van eventueel beeldmateriaal een stemmingsronde hou
 4. Genoemde Overheidsbanen:
     - Politie
     - Ambulance
-    - Taxi
     - xx
     - Advocatuur // Justitie
     - Gemeente (Staff)
